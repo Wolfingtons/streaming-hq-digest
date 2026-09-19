@@ -1,0 +1,175 @@
+{
+  "lede": "A stacked weekend for prestige genre TV — a Korean period scandal, a perfect-score spy thriller, and a reality format that actually earns its hype — plus a fairy-tale indie hiding on Hulu.",
+  "shortlist": [
+    {
+      "kind": "tv",
+      "title": "MobLand",
+      "year": 2026,
+      "service": "par",
+      "date": "SEP 18",
+      "meta": "Guy Ritchie (dir./exec.); Tom Hardy, Pierce Brosnan, Helen Mirren · Season 2, weekly Fridays",
+      "scores": [["RT", "100%"]],
+      "blurb": "The Harrigan crime family's fractured empire descends into open war, and critics say the sophomore season is even sharper than the first. Tom Hardy's Harry is stretched thinner than ever trying to keep the family from tearing itself apart.",
+      "tag": "Crime drama you'll like",
+      "link": "https://www.rottentomatoes.com/tv/mobland/s02"
+    },
+    {
+      "kind": "tv",
+      "title": "Slow Horses",
+      "year": 2026,
+      "service": "apl",
+      "date": "SEP 16",
+      "meta": "Will Smith (showrunner); Gary Oldman, Jack Lowden · Season 6, weekly Wednesdays through Oct 21",
+      "scores": [["RT", "100%"]],
+      "blurb": "Jackson Lamb's disgraced Slough House agents go on the run from a new threat, and the season just set the show's own all-time Rotten Tomatoes record. Still the smartest, funniest spy show on TV.",
+      "tag": "Sharp spy fiction",
+      "link": "https://www.rottentomatoes.com/tv/slow_horses/s06"
+    },
+    {
+      "kind": "tv",
+      "title": "The Scandal",
+      "year": 2026,
+      "service": "nf",
+      "date": "SEP 18",
+      "meta": "Jung Ji-woo (dir.); Son Ye-jin, Ji Chang-wook, Nana · 8 episodes",
+      "blurb": "A lavish, late-Joseon-set take on <i>Dangerous Liaisons</i> (by way of the beloved 2003 film <i>Untold Scandal</i>), with a noblewoman, a notorious playboy, and an unsuspecting widow caught in a dangerous game of seduction.",
+      "tag": "Korean prestige pick",
+      "link": "https://www.netflix.com/title/81911390"
+    },
+    {
+      "kind": "tv",
+      "title": "The Traitors: New Blood",
+      "year": 2026,
+      "service": "pea",
+      "date": "SEP 18",
+      "meta": "Alan Cumming (host); all-civilian cast of 22, selected from 80,000+ applicants",
+      "blurb": "NBC's all-civilian spinoff of the Scottish-castle murder-mystery competition swaps in 22 \"everyday Americans\" for the usual reality vets, and critics say the emotional transparency is genuinely refreshing.",
+      "tag": "The next Physical: 100-style sleeper",
+      "link": "https://www.metacritic.com/tv/the-traitors-new-blood/"
+    },
+    {
+      "kind": "movie",
+      "title": "100 Nights of Hero",
+      "year": 2025,
+      "service": "hulu",
+      "date": "SEP 18",
+      "meta": "Julia Jackman (dir.); Maika Monroe, Emma Corrin, Nicholas Galitzine · 89 min",
+      "scores": [["RT", "100%"]],
+      "blurb": "A woozy, sumptuously designed feminist fairy tale (from Isabel Greenberg's graphic novel) about a noblewoman's fidelity tested by a wager between men — and the maid who keeps her safe by telling stories all night. Exactly the kind of stylish festival darling an auto-fetch list would never surface.",
+      "tag": "The Sacrifice-style miss",
+      "link": "https://www.rottentomatoes.com/m/100_nights_of_hero"
+    },
+    {
+      "kind": "tv",
+      "title": "Youth",
+      "year": 2026,
+      "service": "max",
+      "date": "SEP 20",
+      "meta": "Sharon Horgan (creator/lead); Aran Murphy · Season 1",
+      "scores": [["RT", "100%"], ["MC", "80"]],
+      "blurb": "Horgan plays a 50-year-old London literary agent juggling dating, aging parents, and a son who should've left the nest, in a comedy critics are calling \"spit-takingly funny\" and \"beautifully tender.\"",
+      "tag": "Prestige comedy you'll like",
+      "link": "https://www.metacritic.com/tv/youth-2026/"
+    }
+  ],
+  "sections": {
+    "movies": [
+      {
+        "kind": "movie",
+        "title": "Best of the Best",
+        "year": 2026,
+        "service": "nf",
+        "date": "SEP 18",
+        "blurb": "Lena Khan directs a coming-of-age comedy (written by Hasan Minhaj) about two childhood best friends whose bond is tested when they join UCLA's cutthroat competitive Bollywood-fusion dance team.",
+        "tags": ["Booksmart meets Bollywood"]
+      },
+      {
+        "kind": "movie",
+        "title": "Disconnect",
+        "year": 2012,
+        "service": "nf",
+        "date": "SEP 18",
+        "blurb": "Jason Bateman, Alexander Skarsgård, and Frank Grillo anchor three interwoven, Black-Mirror-esque stories about cyberbullying, identity theft, and the dark side of always being online.",
+        "tags": ["Catalog thriller worth a rewatch"]
+      }
+    ],
+    "tv": [
+      {
+        "kind": "tv",
+        "title": "Neagley",
+        "year": 2026,
+        "service": "pri",
+        "date": "SEP 16",
+        "blurb": "The Reacher universe's first spinoff puts Maria Sten's Frances Neagley front and center as she investigates the suspicious death of an old friend. Reviews are mixed-to-positive but strong for Sten.",
+        "tags": ["Genre fiction you'll like"]
+      },
+      {
+        "kind": "tv",
+        "title": "Monster: The Lizzie Borden Story",
+        "year": 2026,
+        "service": "nf",
+        "date": "SEP 17",
+        "blurb": "Ryan Murphy and Ian Brennan's true-crime anthology turns to the 1892 Borden axe murders, with Ella Beatty as Lizzie alongside Charlie Hunnam, Sarah Paulson, and Rebecca Hall. Full season dropped at once; critics are sharply divided.",
+        "tags": ["Divisive true crime", "Stacked cast"]
+      },
+      {
+        "kind": "tv",
+        "title": "Made in Korea",
+        "year": 2026,
+        "service": "dis",
+        "date": "SEP 9",
+        "blurb": "Hyun Bin and Jung Woo-sung return for the final season of this KCIA thriller, picking up nine years later against the real 1979 assassination of Park Chung-hee.",
+        "tags": ["Korean prestige", "Historical thriller"]
+      },
+      {
+        "kind": "tv",
+        "title": "Last Seen",
+        "year": 2026,
+        "service": "apl",
+        "date": "SEP 9",
+        "blurb": "Patrick Brammall plays a detective convinced a distress call is from the daughter who vanished 11 years ago, in this adaptation of Ryan David Jahn's novel \"The Dispatcher.\"",
+        "tags": ["Australian thriller"]
+      },
+      {
+        "kind": "tv",
+        "title": "The Ordinary Jackpot",
+        "year": 2026,
+        "service": "max",
+        "date": "SEP 10",
+        "blurb": "New Korean drama added to HBO Max's growing K-content slate this month.",
+        "tags": ["Korean drama"]
+      }
+    ],
+    "anime": [
+      {
+        "kind": "tv",
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "year": 2019,
+        "service": "pri",
+        "date": "SEP 15",
+        "blurb": "All four seasons land on Prime Video in one drop — a genuine catalog coup for anyone who doesn't already have a Crunchyroll habit.",
+        "tags": ["Anime catalog landmark"]
+      },
+      {
+        "kind": "movie",
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "year": 2020,
+        "service": "pri",
+        "date": "SEP 15",
+        "blurb": "The $500M-grossing franchise film arrives alongside the series. A 98% RT anime landmark if you've somehow missed it.",
+        "tags": ["Anime film essential"]
+      }
+    ],
+    "catalog": [
+      {
+        "kind": "movie",
+        "title": "Supergirl",
+        "year": 2026,
+        "service": "max",
+        "date": "SEP 10",
+        "blurb": "Milly Alcock's DCU debut hits HBO Max two months after a disappointing theatrical run. Reviews are mixed on the film overall (53% RT) but unanimous that Alcock is the reason to watch.",
+        "tags": ["Mixed but worth it for the lead"]
+      }
+    ]
+  }
+}
