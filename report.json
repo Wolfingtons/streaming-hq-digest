@@ -1,78 +1,110 @@
 {
-  "lede": "This week: Netflix's first Brazilian legal drama and a darker-than-expected Italian teen mystery headline the new arrivals, a French true-crime sensation and Apple's bleak dispatcher thriller round out the under-the-radar catches, and an announced slate topped by Ben Affleck's kidnapping thriller and a Friday the 13th prequel series.",
+  "lede": "This week: A24's biggest hit ever crashes onto Max, Sharon Horgan and a career-best Slow Horses deliver the season's sharpest comedy and thriller, a lush Son Ye-jin K-drama and a civilian Traitors spinoff round out the surprises, and an announced slate is led by Lee Chang-dong's long-awaited return and Spielberg's surprise Peacock landing.",
   "shortlist": [
     {
-      "kind": "tv",
-      "title": "Habeas Corpus",
-      "year": 2026,
-      "service": "nf",
-      "date": "SEP 23",
-      "meta": "With Marjorie Estiano, Any Gabrielly. Netflix Brazil's first legal drama. Season 1, 8 episodes.",
-      "blurb": "A law professor leading a wrongful-conviction review team fights to free a young man convicted of a crime he says he didn't commit, in Netflix Brazil's first legal drama, inspired by Innocence Project Brazil.",
-      "tag": "Brazilian legal drama you'd miss"
-    },
-    {
-      "kind": "tv",
-      "title": "Physical 100: Italy",
-      "year": 2026,
-      "service": "nf",
-      "date": "SEP 11",
-      "meta": "With Olympians Federica Pellegrini, Jury Chechi, Tania Cagnotto among 100 competitors. Season 1, weekly episodes.",
-      "blurb": "The Italian spinoff of the brutal elimination competition Ian already loved pits 100 competitors, including Olympic champions, through grueling physical challenges for a shot at the top prize.",
-      "tag": "More Physical: 100, Italian style"
-    },
-    {
-      "kind": "tv",
-      "title": "Minerva Academy",
-      "year": 2026,
-      "service": "nf",
-      "date": "SEP 22",
-      "meta": "Dir. Ciro Minopoli. Season 1, 8 episodes, all released together.",
-      "blurb": "A seemingly ordinary military-style Naples high school drama turns considerably darker as hazing, abuse of power, and a cadet's disappearance take over the story.",
-      "tag": "Italian teen drama, darker than it looks"
-    },
-    {
       "kind": "movie",
-      "title": "Stop! That! Train!",
+      "title": "Backrooms",
+      "year": 2026,
+      "service": "max",
+      "date": "SEP 25",
+      "meta": "Dir. Kane Parsons; with Chiwetel Ejiofor, Renate Reinsve. 110 min.",
+      "scores": [["RT","88%"],["MC","76"]],
+      "blurb": "A24's highest-grossing film ever turns the viral \"Backrooms\" creepypasta into an unsettling feature: a failing furniture salesman stumbles into an endless maze of liminal rooms, and his therapist follows him in to find out what's really down there.",
+      "tag": "A24 horror you'd miss",
+      "trailer": "https://www.youtube.com/watch?v=8z9Ot_PqVV4",
+      "link": "https://letterboxd.com/film/backrooms-2026/"
+    },
+    {
+      "kind": "tv",
+      "title": "The Traitors: New Blood",
+      "year": 2026,
+      "service": "pea",
+      "date": "SEP 18",
+      "meta": "Hosted by Alan Cumming; 22 civilian contestants. Spinoff season, weekly episodes.",
+      "blurb": "The killer social-deduction format swaps celebrities for everyday Americans — a physician, an airline pilot, a funeral director — competing for $250,000 in a Scottish castle, and it's NBC's biggest unscripted premiere in six years.",
+      "tag": "Physical: 100-style pick you'd miss"
+    },
+    {
+      "kind": "tv",
+      "title": "Youth",
+      "year": 2026,
+      "service": "max",
+      "date": "SEP 20",
+      "meta": "Created by and starring Sharon Horgan (Catastrophe). Season 1, weekly episodes.",
+      "scores": [["RT","100%"],["MC","80"]],
+      "blurb": "Sharon Horgan turns her sharp comic voice on midlife instead of new love: a 50-year-old London literary agent navigates divorce, dating, and reinvention in what critics call \"spit-takingly funny.\"",
+      "tag": "Prestige comedy you'd miss"
+    },
+    {
+      "kind": "tv",
+      "title": "Neagley",
+      "year": 2026,
+      "service": "pri",
+      "date": "SEP 16",
+      "meta": "With Maria Sten as Frances Neagley (Reacher spinoff). Season 1, 8 episodes, full drop.",
+      "scores": [["RT","93%"]],
+      "blurb": "The Reacher universe's best supporting player gets her own sharper, more psychologically-driven spinoff, climbing to Certified Fresh as critics call it smarter than expected.",
+      "tag": "Sharp genre spinoff you'd miss"
+    },
+    {
+      "kind": "tv",
+      "title": "Slow Horses",
+      "year": 2026,
+      "service": "apl",
+      "date": "SEP 16",
+      "meta": "With Gary Oldman as Jackson Lamb. Season 6, 6 episodes, weekly.",
+      "scores": [["RT","100%"]],
+      "blurb": "Apple's acclaimed spy thriller returns for its best-reviewed season yet, hitting the highest average critic score of the show's run.",
+      "tag": "Peak spy thriller"
+    },
+    {
+      "kind": "tv",
+      "title": "The Scandal",
       "year": 2026,
       "service": "nf",
-      "date": "SEP 20",
-      "meta": "Dir. Adam Shankman; with Ginger Minj, Jujubee. 92 min.",
-      "scores": [["RT","87%"]],
-      "blurb": "Drag stars Ginger Minj and Jujubee play train stewardesses whose glitzy new gig on the \"Glamazonian Express\" collides with a catastrophic \"Stormaganza\" in this gleefully campy disaster-movie spoof.",
-      "tag": "Camp disaster-comedy"
+      "date": "SEP 18",
+      "meta": "Dir. Jung Ji-woo; with Son Ye-jin, Ji Chang-wook. Limited series, 8 episodes.",
+      "blurb": "A lush, starry Joseon-era adaptation of Untold Scandal (by way of Les Liaisons Dangereuses) pits a brilliant noblewoman against the era's most notorious playboy in an escalating seduction wager.",
+      "tag": "Prestige K-drama you'd miss",
+      "trailer": "https://www.youtube.com/watch?v=FeISX5E1uJc"
     }
   ],
   "sections": {
     "movies": [
-      {"kind":"movie","title":"The Last Voyage of the Demeter","year":2023,"service":"pea","date":"SEP 10","blurb":"André Øvredal's gothic maritime Dracula horror — the doomed voyage of the Demeter, stalked and slaughtered one by one by an ancient vampire — finds a new streaming home.","tags":["Gothic horror catalog pick"]}
+      {"kind":"movie","title":"Unabomber","year":2026,"service":"nf","date":"SEP 25","blurb":"Russell Crowe and Jacob Tremblay anchor a dual-timeline true-crime drama on Ted Kaczynski's radicalization and the FBI manhunt that followed; reviews are mixed but the performances draw praise.","tags":["Divisive true-crime pick"]}
     ],
     "tv": [
-      {"kind":"tv","title":"Sambre","year":2026,"service":"pri","date":"SEP 15","blurb":"From the Oscar-winning director of The Staircase, this record-breaking French limited series tracks the decades-long failure to connect a serial rapist to attacks along the same river, through to the #MeToo era.","tags":["French true-crime you'd miss"]},
-      {"kind":"tv","title":"Last Seen","year":2026,"service":"apl","date":"SEP 9","blurb":"An alcoholic ex-cop turned 911 dispatcher gets a call that might be about his daughter, missing for 11 years, in a genre-bending psychological thriller critics say \"never plays by the rules.\"","tags":["Prestige thriller you'd miss"]}
+      {"kind":"tv","title":"MobLand","year":2026,"service":"par","date":"SEP 18","blurb":"Tom Hardy, Pierce Brosnan, and Helen Mirren return for a stronger, Certified Fresh second season of this British-Irish crime saga about a fracturing mob empire.","tags":["Prestige crime you'd miss"]},
+      {"kind":"tv","title":"Paolo","year":2026,"service":"max","date":"SEP 25","blurb":"A French psychological thriller about obsessive fixation on a rising political candidate, praised at Séries Mania for its \"Saltburn energy\" — the kind of festival-vetted import a US watchlist would never surface.","tags":["French thriller you'd miss"]},
+      {"kind":"tv","title":"The Final Problem","year":2026,"service":"nf","date":"SEP 25","blurb":"A stylish Spanish locked-room mystery adapted from Arturo Pérez-Reverte, stranding suspects in a storm-battered 1959 Majorca hotel for an Agatha Christie-style whodunit.","tags":["Spanish whodunit"]},
+      {"kind":"tv","title":"4 Blocks Zero","year":2026,"service":"max","date":"SEP 25","blurb":"A prequel to the acclaimed German crime drama 4 Blocks, tracing the Hamady family's rise in 1990s Berlin.","tags":["German crime prequel"]},
+      {"kind":"tv","title":"Delusion","year":2026,"service":"nf","date":"SEP 24","blurb":"A Thai mystery weaving dementia, family secrets, and village folklore into a witch-hunt narrative — under-tracked, and reviews call it smarter than it is satisfying.","tags":["Thai mystery you'd miss"]},
+      {"kind":"tv","title":"A Different World","year":2026,"service":"nf","date":"SEP 24","blurb":"Debbie Allen's HBCU-set sequel to the classic Cosby Show spinoff centers a new Gen Z cast, with Jasmine Guy and Kadeem Hardison reprising their roles.","tags":["Legacy sequel"]},
+      {"kind":"tv","title":"Knife Edge: Chasing Michelin Stars","year":2026,"service":"apl","date":"SEP 25","blurb":"Gordon Ramsay's BAFTA-nominated docuseries returns, following 16 restaurants across Europe, the US, and Brazil fighting to earn or keep a Michelin star.","tags":["Smart competition format"]}
     ],
-    "anime": [],
+    "anime": [
+      {"kind":"tv","title":"A Wild Last Boss Appeared! Season 2","year":2026,"service":"crr","date":"SEP 26","blurb":"The overpowered demon-lord-who-just-wants-a-quiet-life comedy returns for a new isekai arc.","tags":["Isekai comedy"]},
+      {"kind":"tv","title":"STEEL BALL RUN: JoJo's Bizarre Adventure — 2nd Stage","year":2026,"service":"nf","date":"SEP 25","blurb":"After a controversial mid-run pause sparked fan backlash, JoJo's seventh saga resumes weekly with Johnny Joestar and Gyro Zeppeli's brutal transcontinental horse race.","tags":["Returning after backlash"]},
+      {"kind":"tv","title":"Overgeared","year":2026,"service":"crr","date":"SEP 27","blurb":"A Korean LitRPG webcomic adaptation about a blacksmith who becomes overpowered through in-game crafting — early reviews call it \"far better than it ever needed to be.\"","tags":["Next Solo Leveling?"]},
+      {"kind":"tv","title":"Neon Genesis Evangelion","year":1995,"service":"cr","date":"SEP","blurb":"Hideaki Anno's genre-redefining mecha classic, plus its two film endings, joins Criterion Channel's library this month.","tags":["Essential anime classic"]}
+    ],
     "catalog": [
-      {"kind":"movie","title":"Blue Velvet","year":1986,"service":"cr","date":"SEP","blurb":"David Lynch's noir-tinged neo-classic returns to Criterion Channel in a new edition, following Dennis Hopper's psychotic Frank Booth into the underbelly of small-town America.","tags":["Lynch classic"]},
-      {"kind":"movie","title":"Thief","year":1981,"service":"cr","date":"SEP","blurb":"Michael Mann's stylish directorial debut stars James Caan as a professional safecracker trying to go straight, joining Criterion's library.","tags":["Mann's debut"]},
-      {"kind":"movie","title":"The Man Who Fell to Earth","year":1976,"service":"cr","date":"SEP","blurb":"Nicolas Roeg's trippy sci-fi classic stars David Bowie as a humanoid alien stranded on Earth, back on Criterion after being out of print.","tags":["Bowie sci-fi cult classic"]},
-      {"kind":"movie","title":"Pitfall","year":1962,"service":"cr","date":"SEP","blurb":"The first entry in Hiroshi Teshigahara's acclaimed collaboration with novelist Kobo Abe, a genre-bending ghost story about a murdered miner, returns to Criterion.","tags":["Teshigahara retrospective"]},
-      {"kind":"movie","title":"Woman in the Dunes","year":1964,"service":"cr","date":"SEP","blurb":"Teshigahara's Cannes-winning existentialist classic, about a man trapped in a sand pit with a mysterious woman, rejoins the Criterion Channel.","tags":["Teshigahara retrospective"]},
-      {"kind":"movie","title":"The Face of Another","year":1966,"service":"cr","date":"SEP","blurb":"The third Teshigahara-Abe collaboration follows a disfigured man given a lifelike mask, rounding out Criterion's retrospective.","tags":["Teshigahara retrospective"]},
-      {"kind":"movie","title":"Blood for Dracula","year":1974,"service":"cr","date":"SEP","blurb":"Paul Morrissey's cult horror-comedy, paired with companion film Flesh for Frankenstein, returns to streaming as part of Criterion's cult classics slate.","tags":["Cult classic"]},
-      {"kind":"movie","title":"Bad Lieutenant","year":1992,"service":"cr","date":"SEP","blurb":"Harvey Keitel's unhinged, unredeemable cop anchors Abel Ferrara's grimy NYC classic, part of a full 19-film Ferrara retrospective now on Criterion.","tags":["Ferrara retrospective"]}
+      {"kind":"movie","title":"Romería","year":2025,"service":"cr","date":"SEP","blurb":"Carla Simón's Cannes-competition drama joins Criterion Channel, following a young woman piecing together her late parents' past.","tags":["Cannes competition arthouse"]},
+      {"kind":"movie","title":"Our Land","year":2025,"service":"cr","date":"SEP","blurb":"Argentine master Lucrecia Martel's documentary arrives on Criterion Channel.","tags":["Lucrecia Martel doc"]},
+      {"kind":"movie","title":"Nadja","year":1994,"service":"cr","date":"SEP","blurb":"Michael Almereyda's stylish, David Lynch-produced vampire noir joins Criterion in a newly restored director's cut.","tags":["Cult vampire noir"]},
+      {"kind":"movie","title":"Distant Journey","year":1949,"service":"cr","date":"SEP","blurb":"Alfréd Radok's harrowing Czech drama about the Holocaust, blending documentary footage with expressionist staging, joins Criterion's library.","tags":["Czech classic"]},
+      {"kind":"movie","title":"Once Upon a Time in Hollywood","year":2019,"service":"pri","date":"SEP 25","blurb":"Tarantino's shaggy, loving ode to late-'60s Hollywood lands on Prime Video ahead of its upcoming sequel.","tags":["Tarantino catalog get"]}
     ],
     "announced": [
-      {"kind":"movie","title":"Animals","year":2026,"service":"nf","date":"OCT 9","blurb":"Ben Affleck writes, directs, and stars as an LA mayoral candidate whose family is targeted by kidnappers in this Taken-meets-The Town thriller, co-starring Kerry Washington and Steven Yeun; Netflix dropped the full trailer this week.","tags":["Just announced"]},
-      {"kind":"tv","title":"The Trap","year":2026,"service":"nf","date":"OCT 13","blurb":"Netflix confirmed an Oct. 13 date for this German psychological thriller adapting Melanie Raabe's novel, starring Friederike Becht as a reclusive author using herself as bait to catch her sister's killer.","tags":["Just announced"]},
-      {"kind":"tv","title":"Crystal Lake","year":2026,"service":"pea","date":"OCT 15","blurb":"Peacock's A24-produced Friday the 13th prequel series, starring Linda Cardellini as young Pam Voorhees, dropped its trailer and confirmed all 8 episodes arrive Oct. 15.","tags":["Just announced"]},
-      {"kind":"tv","title":"Doctor X","year":2026,"service":"nf","date":"OCT 9","blurb":"Netflix confirmed Kim Ji-won's medical-thriller K-drama streams day-and-date with its Korean broadcast starting Oct. 9.","tags":["Just announced"]},
-      {"kind":"tv","title":"Dead-End Job","year":2026,"service":"nf","date":"OCT 30","blurb":"Netflix set an Oct. 30 date for this fantasy-horror-mystery K-drama starring Lee Jae-wook, Go Min-si, and Kim Min-ha — a sharper genre swing than the usual rom-com K-drama slate.","tags":["Just announced"]},
-      {"kind":"tv","title":"The Remarried Empress","year":2026,"service":"dis","date":"NOV 4","blurb":"Disney+ confirmed a Nov. 4 premiere for this lavish webtoon-adapted fantasy-romance K-drama starring Shin Min-ah, Ju Ji-hoon, and Lee Jong-suk.","tags":["Just announced"]},
-      {"kind":"movie","title":"Tenzing","year":2026,"service":"apl","date":"OCT 16","blurb":"Apple confirmed an Oct. 16 streaming date for this Sherpa mountaineering drama, following a brief theatrical run.","tags":["Just announced"]},
-      {"kind":"tv","title":"Small Prophets","year":2026,"service":"apl","date":"OCT 7","blurb":"Apple TV confirmed an Oct. 7 premiere for Mackenzie Crook's (Detectorists) new comedy about a man who learns to create fortune-telling spirits — the acclaimed BBC series holds a perfect 100% on Rotten Tomatoes.","tags":["Just announced"]},
-      {"kind":"movie","title":"Mononoke the Movie: Chapter III – The Curse of the Serpent","year":2026,"service":"nf","date":"SEP 29","blurb":"Netflix confirmed the trilogy finale of its acclaimed Ōoku-set supernatural-mystery anime lands globally Sept. 29.","tags":["Just announced"]},
-      {"kind":"tv","title":"Red River","year":2026,"service":"crr","date":"SEP 29","blurb":"Crunchyroll confirmed the shoujo-isekai adaptation's second cour, set in the Hittite Empire, returns Sept. 29 with new cast additions including Nana Mizuki.","tags":["Just announced"]}
+      {"kind":"movie","title":"Ink","year":2026,"service":"nf","date":"JAN 8","blurb":"Netflix confirmed a Jan. 8 streaming date for Danny Boyle's Venice-premiered drama on the birth of Rupert Murdoch's tabloid empire, starring Jack O'Connell and Guy Pearce.","tags":["Just announced"]},
+      {"kind":"movie","title":"Possible Love","year":2026,"service":"nf","date":"NOV 6","blurb":"Lee Chang-dong's first film in eight years — a Venice Grand Jury Prize and FIPRESCI winner starring Jeon Do-yeon — gets a confirmed Nov. 6 global Netflix date.","tags":["Just announced"]},
+      {"kind":"movie","title":"Disclosure Day","year":2026,"service":"pea","date":"OCT 9","blurb":"Peacock confirmed an exclusive streaming debut for Spielberg's UFO-disclosure thriller, starring Emily Blunt and Josh O'Connor — his biggest box office hit since Ready Player One.","tags":["Just announced"]},
+      {"kind":"tv","title":"Carrie","year":2026,"service":"pri","date":"OCT 7","blurb":"Mike Flanagan's full reinvention of Stephen King's Carrie dropped its full trailer this week, confirming all 8 episodes land Oct. 7.","tags":["Just announced"]},
+      {"kind":"movie","title":"The Invite","year":2026,"service":"max","date":"OCT 23","blurb":"A24's Sundance-breakout relationship dramedy from Olivia Wilde, starring Seth Rogen, Edward Norton, and Penélope Cruz, gets a confirmed HBO Max streaming date.","tags":["Just announced"]},
+      {"kind":"movie","title":"The Death of Robin Hood","year":2026,"service":"max","date":"OCT 16","blurb":"Michael Sarnoski's (Pig) revisionist Robin Hood, starring Hugh Jackman and Bill Skarsgård, confirmed an Oct. 16 HBO Max date after a rocky theatrical run.","tags":["Just announced"]},
+      {"kind":"movie","title":"Masterplan","year":2026,"service":"pri","date":"OCT 16","blurb":"Amazon MGM unveiled the trailer for this Mona Lisa heist film starring Stanley Tucci and Simona Tabasco, confirming an Oct. 16 Prime Video date.","tags":["Just announced"]},
+      {"kind":"tv","title":"Quiztopia","year":2026,"service":"nf","date":"DEC 17","blurb":"Netflix unveiled cast and a teaser for this Japanese dystopian thriller — a constitutionally-mandated, lethal quiz show — confirming a Dec. 17 global premiere.","tags":["Just announced"]},
+      {"kind":"tv","title":"100 Days of Deception","year":2026,"service":"nf","date":"OCT 10","blurb":"Netflix confirmed an Oct. 10 date for this Korean period espionage thriller set in 1932 Japanese-occupied Gyeongseong, starring Kim You-jung.","tags":["Just announced"]}
     ]
   }
 }
