@@ -1,229 +1,83 @@
 {
-  "lede": "This week: Paramount+ sleeps on a 94% piano-tuner heist, Ryan Murphy's superfan AHS reunion tops Hulu, Netflix's luchador-packed Physical 100 lands, and the announced slate is led by Sacrifice, East of Eden and Cyberpunk: Edgerunners 2.",
+  "lede": "This week: Florence Pugh's acclaimed East of Eden lands on Netflix, Evil Dead Burn goes gory on HBO Max, The Apothecary Diaries returns, and Sacrifice, Animals and Blade Runner 2099 are on the calendar.",
   "shortlist": [
     {
-      "kind": "movie",
-      "title": "Tuner",
-      "year": 2025,
-      "service": "par",
-      "date": "SEP 21",
-      "meta": "Dir. Daniel Roher; with Leo Woodall, Dustin Hoffman, Havana Rose Liu. 107 min.",
-      "scores": [
-        [
-          "RT",
-          "94%"
-        ],
-        [
-          "MC",
-          "75"
-        ]
-      ],
-      "blurb": "Oscar-winning Navalny director Daniel Roher's fiction debut: a New York piano tuner with hypersensitive hearing starts cracking safes to pay for his ailing mentor's medical bills. <b>Daredevil meets The Italian Job</b> with a classical-music heart, and it's Paramount+'s biggest streaming hit right now.",
-      "tag": "Heist you'd miss",
-      "link": "https://letterboxd.com/film/tuner/"
-    },
-    {
       "kind": "tv",
-      "title": "American Horror Story: 13",
-      "year": 2026,
-      "service": "hulu",
-      "date": "SEP 24",
-      "meta": "Ryan Murphy; with Jessica Lange, Angela Bassett, Kathy Bates, Joey Pollari. 13 episodes, released in pairs and trios through Oct 29.",
-      "scores": [
-        [
-          "RT",
-          "100%"
-        ]
-      ],
-      "blurb": "A hospice caretaker with triskaidekaphobia takes a job at The Apollyon, a Manhattan building haunted by characters from seasons past. Critics are raving about Lange's return, though the audience score is a split 42%.",
-      "tag": "Sharp genre fiction"
-    },
-    {
-      "kind": "tv",
-      "title": "Physical: 100 Mexico",
+      "title": "East of Eden",
       "year": 2026,
       "service": "nf",
-      "date": "SEP 16",
-      "meta": "Netflix reality competition; 100 contestants including luchadores Místico, Atlantis Jr. and Soberano Jr., Olympians and MMA champions. Seven-episode first drop.",
-      "blurb": "The second country adaptation of the Korean hit (after Italy) pits Mexican wrestlers, divers, gymnasts and Hyrox athletes against brutal physical challenges. <b>The Korean original's format</b>, with luchador spectacle added.",
-      "tag": "Physical: 100 fix"
+      "date": "OCT 1",
+      "meta": "Adaptation of John Steinbeck's novel; with Florence Pugh as Cathy Ames. 7-episode limited series.",
+      "scores": [["RT", "89%"]],
+      "blurb": "Netflix's lavish Steinbeck adaptation is winning critics over, with Pugh's <b>cunning, captivating Cathy Ames</b> the clear centerpiece. It's Pugh's third-best-reviewed TV series.",
+      "tag": "Prestige literary drama"
+    },
+    {
+      "kind": "movie",
+      "title": "Evil Dead Burn",
+      "year": 2026,
+      "service": "max",
+      "date": "OCT 2",
+      "meta": "Dir. Sébastien Vaniček (Infested). Latest Evil Dead franchise entry.",
+      "scores": [["RT", "70%"]],
+      "blurb": "The Infested director goes all-out with <b>relentless, vicious gore</b> in the franchise's most brutal chapter yet. Some fans miss the humor, but it's a strong October horror pick."
+,
+      "tag": "Sharp genre horror"
+    },
+    {
+      "kind": "tv",
+      "title": "The Apothecary Diaries Season 3",
+      "year": 2026,
+      "service": "crr",
+      "date": "OCT 2",
+      "meta": "Anime adaptation; Crunchyroll fall 2026 simulcast, new episodes weekly.",
+      "blurb": "The sharp-minded pharmacist returns after the rebellion, pulled into a new mystery involving a rumored immortal maiden and a looming famine. <b>One of anime's best period mystery series</b> is back.",
+      "tag": "Anime mystery you'll like"
+    },
+    {
+      "kind": "tv",
+      "title": "Physical 100: Italy",
+      "year": 2026,
+      "service": "nf",
+      "date": "OCT 2",
+      "meta": "Netflix reality competition, Physical: 100 franchise; Italian edition, episodes releasing in batches.",
+      "blurb": "One hundred Italian athletes face brutal physical challenges in the latest <b>Physical: 100 spin-off</b>. A fresh episode dropped Oct 2, so it's easy to catch up.",
+      "tag": "Physical 100 fix"
     }
   ],
   "sections": {
     "movies": [
-      {
-        "kind": "movie",
-        "title": "Toy Story 5",
-        "year": 2026,
-        "service": "dis",
-        "date": "SEP 23",
-        "blurb": "Pixar's latest arrives on Disney+ about three months after its June theatrical run, with more Jessie backstory.",
-        "tags": [
-          "Pixar"
-        ]
-      },
-      {
-        "kind": "movie",
-        "title": "The Love Hypothesis",
-        "year": 2026,
-        "service": "pri",
-        "date": "SEP 23",
-        "blurb": "Lili Reinhart and Tom Bateman headline a breezy rom-com adaptation of the bestselling novel. RT 76%, Metacritic 59.",
-        "tags": [
-          "Comfort watch"
-        ]
-      }
+      {"kind": "movie", "title": "Schumacher '94", "year": 2026, "service": "nf", "date": "OCT 2", "blurb": "Documentary on the 1994 Formula 1 season that launched Michael Schumacher's legendary career.", "tags": ["Sports doc"]}
     ],
-    "tv": [],
+    "tv": [
+      {"kind": "tv", "title": "The Sisters Grimm", "year": 2026, "service": "apl", "date": "OCT 2", "blurb": "Season 2 of the Apple TV series arrives.", "tags": ["Returning season"]},
+      {"kind": "tv", "title": "Adventure Time: Side Quests", "year": 2026, "service": "dis", "date": "OCT 2", "blurb": "The Adventure Time spin-off series returns for another season on Disney+ and Hulu.", "tags": ["Animation"]},
+      {"kind": "tv", "title": "Tyler Perry's Doing Life", "year": 2026, "service": "nf", "date": "OCT 2", "blurb": "A gritty urban drama about a single mother fighting for survival who forms an unexpected bond with a reformed ex-con.", "tags": ["Netflix drama"]}
+    ],
     "anime": [
-      {
-        "kind": "tv",
-        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-        "year": 2026,
-        "service": "crr",
-        "date": "SEP 27",
-        "blurb": "Early fall simulcast premiere on Crunchyroll, ahead of the main October slate.",
-        "tags": [
-          "Isekai"
-        ]
-      }
+      {"kind": "tv", "title": "Black Clover Season 2", "year": 2026, "service": "cr", "date": "OCT 3", "blurb": "Asta and the Magic Knights raid the Spade Kingdom to rescue their captains from the Dark Triad.", "tags": ["Shonen returns"]},
+      {"kind": "tv", "title": "Ranma1/2 Season 3", "year": 2026, "service": "nf", "date": "OCT 3", "blurb": "Netflix's remake of the classic martial-arts romcom continues.", "tags": ["Classic remake"]},
+      {"kind": "tv", "title": "Magical Explorer", "year": 2026, "service": "crr", "date": "OCT 3", "blurb": "New fall 2026 fantasy series arriving on Crunchyroll.", "tags": ["New series"]},
+      {"kind": "tv", "title": "A Tale of the Secret Saint", "year": 2026, "service": "crr", "date": "OCT 3", "blurb": "New fall 2026 fantasy series premiering on Crunchyroll.", "tags": ["New series"]}
     ],
     "catalog": [
-      {
-        "kind": "movie",
-        "title": "Possession",
-        "year": 1981,
-        "service": "cr",
-        "date": "OCT 1",
-        "blurb": "Andrzej Zulawski's extreme possession-horror landmark is in the Criterion Channel's October 'Possessions' collection alongside The Wailing and Jennifer's Body.",
-        "tags": [
-          "Arthouse horror"
-        ]
-      },
-      {
-        "kind": "movie",
-        "title": "The Keep",
-        "year": 1983,
-        "service": "cr",
-        "date": "OCT 1",
-        "blurb": "Michael Mann's cult WWII horror oddity joins Criterion in October, with a Kiyoshi Kurosawa spotlight and The Complete Kubrick.",
-        "tags": [
-          "Cult classic"
-        ]
-      },
-      {
-        "kind": "movie",
-        "title": "The Menu",
-        "year": 2022,
-        "service": "nf",
-        "date": "OCT 1",
-        "blurb": "The chef-thriller satire is among roughly 25 horror and thriller films (Evil Dead, The Sixth Sense, Hush) in Netflix's October 1 batch.",
-        "tags": [
-          "Sharp genre"
-        ]
-      }
+      {"kind": "tv", "title": "Terror in Resonance", "year": 2014, "service": "crr", "date": "OCT 1", "blurb": "Shinichiro Watanabe's riveting anime thriller joins the Criterion Channel's October lineup.", "tags": ["Anime classic"]},
+      {"kind": "movie", "title": "The Wailing", "year": 2016, "service": "crr", "date": "OCT 1", "blurb": "Na Hong-jin's Korean possession horror, part of Criterion's Possessions collection.", "tags": ["Korean horror"]},
+      {"kind": "movie", "title": "The Vanishing", "year": 1988, "service": "crr", "date": "OCT 1", "blurb": "George Sluizer's chilling thriller, part of Criterion's Highway Horror collection.", "tags": ["European arthouse"]},
+      {"kind": "movie", "title": "Duel", "year": 1971, "service": "crr", "date": "OCT 1", "blurb": "Spielberg's early highway thriller in Criterion's Highway Horror series.", "tags": ["Classic thriller"]},
+      {"kind": "movie", "title": "La cérémonie", "year": 1995, "service": "crr", "date": "OCT 1", "blurb": "Claude Chabrol's domestic thriller in Criterion's Unwelcome Guests collection.", "tags": ["French classic"]},
+      {"kind": "movie", "title": "The Bird with the Crystal Plumage", "year": 1970, "service": "crr", "date": "OCT 1", "blurb": "Dario Argento's giallo debut, part of Criterion's Argento retrospective.", "tags": ["Giallo"]}
     ],
     "announced": [
-      {
-        "kind": "movie",
-        "title": "Sacrifice",
-        "year": 2025,
-        "service": "nf",
-        "date": "OCT 16",
-        "blurb": "Netflix set an October 16 date and released the trailer for Romain Gavras' satirical thriller with Anya Taylor-Joy, Chris Evans and Vincent Cassel, which debuted at TIFF in 2025. Track it now.",
-        "tags": [
-          "Just announced",
-          "Radarr now"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "East of Eden",
-        "year": 2026,
-        "service": "nf",
-        "date": "OCT 1",
-        "blurb": "All seven episodes of Zoe Kazan's Steinbeck adaptation with Florence Pugh, Christopher Abbott and Mike Faist drop tomorrow on Netflix.",
-        "tags": [
-          "Drops tomorrow"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "War",
-        "year": 2026,
-        "service": "max",
-        "date": "OCT 1",
-        "blurb": "HBO and Sky's eight-part divorce drama with Dominic West and Sienna Miller premieres October 1; early reviews are mixed but praise the cast.",
-        "tags": [
-          "Drops tomorrow"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "Cyberpunk: Edgerunners 2",
-        "year": 2026,
-        "service": "nf",
-        "date": "OCT 20",
-        "blurb": "Netflix set an October 20 date for the ten-episode standalone Night City follow-up, with Bartosz Sztybor showrunning and Kai Ikarashi directing.",
-        "tags": [
-          "Just announced"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "The Apothecary Diaries",
-        "year": 2026,
-        "service": "crr",
-        "date": "OCT 2",
-        "blurb": "Season 3 premieres October 2 on Crunchyroll with 12 episodes this fall and 12 more in spring 2027; Black Clover Season 2 follows October 3.",
-        "tags": [
-          "Anime returns"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "Nocturne",
-        "year": 2026,
-        "service": "apl",
-        "date": "OCT 30",
-        "blurb": "Apple TV released the trailer and set an October 30 premiere for the thriller with Liev Schreiber, Zazie Beetz and Stephen Graham, weekly through Dec 25.",
-        "tags": [
-          "Just announced"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "12 12 12",
-        "year": 2026,
-        "service": "apl",
-        "date": "NOV 13",
-        "blurb": "Apple TV set a November 13 premiere for the 1970s crime thriller with Anthony Mackie and Jamie Dornan, releasing weekly through Dec 25.",
-        "tags": [
-          "Just announced"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "Crystal Lake",
-        "year": 2026,
-        "service": "pea",
-        "date": "OCT 15",
-        "blurb": "Peacock and A24's eight-episode Friday the 13th prequel series arrives October 15.",
-        "tags": [
-          "A24 horror"
-        ]
-      },
-      {
-        "kind": "tv",
-        "title": "The Remarried Empress",
-        "year": 2026,
-        "service": "dis",
-        "date": "NOV 4",
-        "blurb": "Disney+ and Hulu will premiere the Naver Webtoon adaptation on November 4 with four episodes, then two each Wednesday through Nov 25.",
-        "tags": [
-          "Korean fantasy"
-        ]
-      }
+      {"kind": "movie", "title": "Sacrifice", "year": 2026, "service": "nf", "date": "OCT 16", "blurb": "Netflix set an Oct 16 date for Romain Gavras' satire thriller with Chris Evans and Anya Taylor-Joy, about a movie star taken hostage by a volcanic doomsday cult.", "tags": ["Just announced", "Track in Radarr"]},
+      {"kind": "movie", "title": "Animals", "year": 2026, "service": "nf", "date": "OCT 9", "blurb": "Netflix confirmed Oct 9 for Ben Affleck's directed and starring kidnapping thriller.", "tags": ["Just announced"]},
+      {"kind": "tv", "title": "Below", "year": 2026, "service": "nf", "date": "OCT 8", "blurb": "Netflix's six-episode sea-creature horror limited series with Josh Hartnett and Charlie Heaton premieres Oct 8.", "tags": ["Just announced"]},
+      {"kind": "tv", "title": "VisionQuest", "year": 2026, "service": "dis", "date": "OCT 14", "blurb": "Disney+ drops the first two episodes of the Paul Bettany Vision series from Terry Matalas on Oct 14.", "tags": ["Just announced"]},
+      {"kind": "tv", "title": "Dead-End Job", "year": 2026, "service": "nf", "date": "OCT 30", "blurb": "Netflix confirmed Oct 30 for the K-drama starring Lee Jae-wook as a man taking oddly lucrative part-time jobs.", "tags": ["Just announced", "K-drama"]},
+      {"kind": "tv", "title": "Black Doves Season 2", "year": 2026, "service": "nf", "date": "NOV 5", "blurb": "Netflix released the trailer and Nov 5 date for all six episodes, with Keira Knightley and Ben Whishaw returning.", "tags": ["Just announced"]},
+      {"kind": "tv", "title": "The Lord of the Rings: The Rings of Power Season 3", "year": 2026, "service": "pri", "date": "NOV 11", "blurb": "Prime Video sets Nov 11 for four episodes, with the rest following Nov 18 and Nov 25.", "tags": ["Just announced"]},
+      {"kind": "tv", "title": "Blade Runner 2099", "year": 2026, "service": "pri", "date": "NOV 25", "blurb": "All eight episodes of the Michelle Yeoh and Hunter Schafer sequel series arrive Nov 25 on Prime Video.", "tags": ["Just announced", "Sci-fi"]},
+      {"kind": "tv", "title": "Carrie", "year": 2026, "service": "pri", "date": "OCT 7", "blurb": "Mike Flanagan's Stephen King adaptation drops all eight episodes Oct 7 on Prime Video, with early reviews around 85% on Rotten Tomatoes.", "tags": ["Just announced", "Flanagan"]}
     ]
   }
 }
